@@ -8,8 +8,9 @@ The sample application includes a simple form and a complex form, which looks co
 
 # Supported platforms:
 **Mobile**
- *iPhone
- *Android
- *BlackBerry
- *Windows Phone 8
- *Windows Phone 7.5
+ * iPhone
+ * Android
+ * BlackBerry
+ * Windows Phone8
+ * Windows Phone7.5
+ 
