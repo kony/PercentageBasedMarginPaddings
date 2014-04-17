@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="MarginAdjustment" name="MarginAdjustment">
+    <container displayname="Popup" id="segHead" type="dialog"/>
+    <container displayname="Form" id="frmSimple" type="form">
+        <component displayname="TextBox2" id="textfield2121043302129062" type="textbox2"/>
+        <component displayname="TextBox2" id="textfield2121043302129063" type="textbox2"/>
+    </container>
+    <container displayname="Form" id="frmComplex" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="SampleMarginsPaddings" id="SampleMarginsPaddings">
+    <container type="dialog" id="segHead" displayname="Popup"/>
+    <container type="form" id="frmComplex" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmSimple" displayname="Form">
+        <component type="textbox2" id="txtBxMail" displayname="TextBox2"/>
+        <component type="textbox2" id="textfield2121043302129063" displayname="TextBox2"/>
+    </container>
+    <globalsequences/>
+    <skins/>
+</application>
