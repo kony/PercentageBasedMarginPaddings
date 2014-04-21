@@ -13,4 +13,14 @@ The sample application includes a simple form and a complex form, which looks co
  * BlackBerry
  * Windows Phone8
  * Windows Phone7.5
+ * SPA iPhone
+ 
+**Tablet**
+ * iPad
+ * Android Tab
+ * Windows 8
+
+**Desktop**
+ * DesktopWeb
+ 
  
