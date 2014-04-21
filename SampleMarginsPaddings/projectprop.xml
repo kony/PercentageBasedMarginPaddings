@@ -89,11 +89,12 @@
     <attributes name="SELECTED_THEME" value="KonyTheme"/>
     <attributes name="GET_TASKS" value="false"/>
     <attributes name="Music_Library" value="true"/>
+    <attributes name="tabletstartupformkey" value="frmHome"/>
     <attributes name="tciphonebasefontsize" value="12"/>
     <attributes name="bb10keystorepassword" value=""/>
     <attributes name="pathpatternkey" value=""/>
     <attributes name="wp8iconicsmallkey" value=""/>
-    <attributes name="splashlogokey" value="0=splash.9.png,1=iphone_5.png,8=andriod_hdpi.png,2=bb9860.png,46=,42=iphone_5.png,3=iphone_5.png,16=ipad_4.png,18=andriod_tablet.png,43=ipad_4_potrait.png,1000=,1001=,1002=,31=ipad_4_potrait.png,32=andriod_tablet.png,45=ipad_4_potrait.png,22=iphone_5.png,23=andriod_hdpi.png,24=bb9860.png,35=iphone_5.png,44=iphone_5.png,36=,21=,37="/>
+    <attributes name="splashlogokey" value="0=splash.9.png,1=iphone_5.png,8=andriod_hdpi.png,2=bb9860.png,46=,42=iphone_5.png,3=iphone_5.png,16=ipad_4_potrait.png,18=andriod_tablet.png,43=ipad_4_potrait.png,31=ipad_4_potrait.png,32=andriod_tablet.png,45=ipad_4_potrait.png,22=iphone_5.png,23=andriod_hdpi.png,24=bb9860.png,35=iphone_5.png,44=iphone_5.png,1002=desktop.png,37=desktop.png,1000=,1001=,36=,21="/>
     <attributes name="Shared_User_Certificates" value="true"/>
     <attributes name="inputaccessoryviewtype" value="nextprevtoolbar"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
@@ -118,7 +119,7 @@
     <attributes name="desktopwebnoscriptmessage" value="To use this site, first enable your browser&#039;s JavaScript support and then refresh this page."/>
     <attributes name="tcbb360basefontsize" value="13"/>
     <attributes name="WP8_ID_CAP_PHONEDIALER" value="true"/>
-    <attributes name="bgcolorkey" value="255,255,255"/>
+    <attributes name="bgcolorkey" value="73,180,202"/>
     <attributes name="BIND_APPWIDGET" value="false"/>
     <attributes name="wp8cycle5key" value=""/>
     <attributes name="hybdridcontextkey" value=""/>
@@ -170,7 +171,7 @@
     <attributes name="SET_ALARM" value="false"/>
     <attributes name="read_device_identifying_information" value="false"/>
     <attributes name="RECEIVE_MMS" value="false"/>
-    <attributes name="androidorientation" value="Portrait"/>
+    <attributes name="androidorientation" value="Both"/>
     <attributes name="WRITE_SYNC_SETTINGS" value="false"/>
     <attributes name="WRITE_EXTERNAL_STORAGE" value="false"/>
     <attributes name="tcbb440basefontsize" value="15"/>
@@ -206,7 +207,7 @@
     <attributes name="tcphoneformatindicator" value="false"/>
     <attributes name="Location" value="true"/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
-    <attributes name="currentgaversion" value="5.5.46.QA_v201404041631_r1"/>
+    <attributes name="currentgaversion" value="5.5.50.QA_v201404172240"/>
     <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
@@ -352,6 +353,7 @@
     <attributes name="iphonewebshrtcutkey" value=""/>
     <attributes name="ID_CAP_NETWORKING" value="true"/>
     <attributes name="ID_HW_FRONTCAMERA" value="false"/>
+    <attributes name="desktopstartupformkey" value="frmHome"/>
     <attributes name="wp8lockscreenbackgroundkey" value="false"/>
     <attributes name="WP8_ID_CAP_SPEECH_RECOGNITION" value="true"/>
     <attributes name="ID_REQ_NFC" value="false"/>

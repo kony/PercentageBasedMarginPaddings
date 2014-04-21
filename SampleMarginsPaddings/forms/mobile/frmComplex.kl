@@ -797,7 +797,7 @@
                 <width>100</width>
                 <height>18</height>
             </sizePercent>
-            <skinId>Skin Defaults</skinId>
+            <skinId>hbxTransparent</skinId>
             <focusSkinId>Skin Defaults</focusSkinId>
             <localeId>None</localeId>
             <visible>true</visible>
@@ -2731,7 +2731,7 @@
                         <width>100</width>
                         <height>66</height>
                     </sizePercent>
-                    <skinId>Skin Defaults</skinId>
+                    <skinId>hbxTransparent</skinId>
                     <focusSkinId>Skin Defaults</focusSkinId>
                     <localeId>None</localeId>
                     <visible>true</visible>
@@ -23697,7 +23697,7 @@
                 <width>100</width>
                 <height>6</height>
             </sizePercent>
-            <skinId>Skin Defaults</skinId>
+            <skinId>hbxTransparent</skinId>
             <focusSkinId>Skin Defaults</focusSkinId>
             <localeId>None</localeId>
             <visible>true</visible>
@@ -23923,17 +23923,17 @@
                 </xhtmlAdvBB>
                 <xhtmlAdvBB_override>false</xhtmlAdvBB_override>
                 <spaAndroid>
-                    <left>0</left>
-                    <right>0</right>
-                    <top>0</top>
+                    <left>2</left>
+                    <right>2</right>
+                    <top>2</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </spaAndroid>
-                <spaAndroid_override>false</spaAndroid_override>
+                <spaAndroid_override>true</spaAndroid_override>
                 <spaBB>
-                    <left>0</left>
-                    <right>0</right>
-                    <top>0</top>
+                    <left>2</left>
+                    <right>2</right>
+                    <top>2</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </spaBB>
@@ -23945,15 +23945,15 @@
                     <unit>%</unit>
                 </spaBBNth>
                 <spaBBNth_override>false</spaBBNth_override>
-                <spaBB_override>false</spaBB_override>
+                <spaBB_override>true</spaBB_override>
                 <spaIphone>
-                    <left>0</left>
-                    <right>0</right>
-                    <top>0</top>
+                    <left>2</left>
+                    <right>2</right>
+                    <top>2</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </spaIphone>
-                <spaIphone_override>false</spaIphone_override>
+                <spaIphone_override>true</spaIphone_override>
                 <spaWindows>
                     <left>0</left>
                     <right>0</right>
@@ -27437,7 +27437,7 @@
                 </bb10>
                 <bb10_override>false</bb10_override>
                 <bb_override>false</bb_override>
-                <default_override>false</default_override>
+                <default_override>true</default_override>
                 <defaults>
                     <left>1</left>
                     <right>1</right>
@@ -27685,7 +27685,7 @@
                 <height>false</height>
             </overridePerferred>
             <contentAlign>4</contentAlign>
-            <parent_contentalignment>middle-left</parent_contentalignment>
+            <parent_contentalignment>middle-center</parent_contentalignment>
             <parent_wrapping>word</parent_wrapping>
             <parent_longText>false</parent_longText>
             <parent_renderAsAnchor>false</parent_renderAsAnchor>
