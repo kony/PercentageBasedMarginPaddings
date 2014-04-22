@@ -14,11 +14,15 @@ The sample application includes a simple form and a complex form, which looks co
  * Windows Phone8
  * Windows Phone7.5
  * SPA iPhone
+ * SPA Android
+ * SPA BlackBerry
  
 **Tablet**
  * iPad
  * Android Tab
  * Windows 8
+ * SPA iPad
+ * SPA Android
 
 **Desktop**
  * DesktopWeb
