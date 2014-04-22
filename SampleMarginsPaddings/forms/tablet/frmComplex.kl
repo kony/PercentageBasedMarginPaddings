@@ -12059,7 +12059,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -14665,7 +14665,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -17271,7 +17271,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
