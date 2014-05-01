@@ -1,4 +1,4 @@
-SampleMarginPaddings
+MarginPaddings
 ====================
 
 Application to show the use of percentage based margin &amp; padding for the widgets.
