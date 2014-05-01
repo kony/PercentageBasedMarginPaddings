@@ -22,11 +22,11 @@
         <width>true</width>
         <height>false</height>
     </overridePerferred>
-    <projectName>SampleMarginsPaddings</projectName>
+    <projectName>MarginPaddings</projectName>
     <formName>frmComplex</formName>
     <platform>0</platform>
     <mode>0</mode>
-    <formCategory>200</formCategory>
+    <formCategory>100</formCategory>
     <toList>frmLoginPage,frmSimple,frmLogin</toList>
     <fromList></fromList>
     <headersrcList></headersrcList>
@@ -12059,7 +12059,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -14665,7 +14665,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -17271,7 +17271,7 @@
                     <height>13</height>
                 </sizePercent>
                 <skinId>hbxTransparent</skinId>
-                <focusSkinId>Skin Defaults</focusSkinId>
+                <focusSkinId>hbxTransparent</focusSkinId>
                 <localeId>None</localeId>
                 <visible>true</visible>
                 <rendererData>
@@ -27437,7 +27437,7 @@
                 </bb10>
                 <bb10_override>false</bb10_override>
                 <bb_override>false</bb_override>
-                <default_override>true</default_override>
+                <default_override>false</default_override>
                 <defaults>
                     <left>1</left>
                     <right>1</right>
@@ -27689,7 +27689,6 @@
             <parent_wrapping>word</parent_wrapping>
             <parent_longText>false</parent_longText>
             <parent_renderAsAnchor>false</parent_renderAsAnchor>
-            <overrideProperties>KLabel.spa_contentAlignment</overrideProperties>
             <overrideProperties>KLabel.winmobileContentAlign</overrideProperties>
             <overrideProperties>KLabel.winphone8_contentalign</overrideProperties>
             <iphone_wrapping>0</iphone_wrapping>
@@ -27711,7 +27710,7 @@
             <tc_renderAsanchor>false</tc_renderAsanchor>
             <tc_content_align>0</tc_content_align>
             <spa_renderAsAnchor>false</spa_renderAsAnchor>
-            <spa_contentAlignment>4</spa_contentAlignment>
+            <spa_contentAlignment>0</spa_contentAlignment>
             <pb_renderAsAnchor>false</pb_renderAsAnchor>
             <pb_contentAlignment>0</pb_contentAlignment>
             <desktop_hoverskin>Skin Defaults</desktop_hoverskin>

@@ -22,7 +22,7 @@
         <width>true</width>
         <height>false</height>
     </overridePerferred>
-    <projectName>SampleMarginsPaddings</projectName>
+    <projectName>MarginPaddings</projectName>
     <formName>segHead</formName>
     <platform>0</platform>
     <mode>4</mode>

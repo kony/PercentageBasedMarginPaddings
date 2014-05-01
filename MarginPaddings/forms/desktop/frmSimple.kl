@@ -22,11 +22,11 @@
         <width>true</width>
         <height>false</height>
     </overridePerferred>
-    <projectName>SampleMarginsPaddings</projectName>
+    <projectName>MarginPaddings</projectName>
     <formName>frmSimple</formName>
     <platform>0</platform>
     <mode>0</mode>
-    <formCategory>100</formCategory>
+    <formCategory>200</formCategory>
     <toList>frmHome</toList>
     <fromList></fromList>
     <headersrcList></headersrcList>
@@ -179,7 +179,7 @@
             </bb10>
             <bb10_override>false</bb10_override>
             <bb_override>false</bb_override>
-            <default_override>true</default_override>
+            <default_override>false</default_override>
             <defaults>
                 <left>5</left>
                 <right>5</right>
@@ -202,7 +202,7 @@
                 <bottom>0</bottom>
                 <unit>%</unit>
             </desktop_web>
-            <desktop_web_override>false</desktop_web_override>
+            <desktop_web_override>true</desktop_web_override>
             <ipad>
                 <left>0</left>
                 <right>0</right>
@@ -250,8 +250,8 @@
                 <bottom>0</bottom>
                 <unit>%</unit>
             </spaipad>
-            <spaipad_override>true</spaipad_override>
-            <spatablet_android_override>true</spatablet_android_override>
+            <spaipad_override>false</spaipad_override>
+            <spatablet_android_override>false</spatablet_android_override>
             <spatablet_windows_override>false</spatablet_windows_override>
             <symbian>
                 <left>0</left>
@@ -871,10 +871,10 @@
                 <bb_override>false</bb_override>
                 <default_override>true</default_override>
                 <defaults>
-                    <left>0</left>
-                    <right>0</right>
-                    <top>0</top>
-                    <bottom>0</bottom>
+                    <left>1</left>
+                    <right>1</right>
+                    <top>1</top>
+                    <bottom>1</bottom>
                     <unit>%</unit>
                 </defaults>
                 <desktop_kiosk>
@@ -934,14 +934,14 @@
                 </spaWinphone8>
                 <spaWinphone8_override>false</spaWinphone8_override>
                 <spaipad>
-                    <left>1</left>
-                    <right>1</right>
-                    <top>2</top>
+                    <left>0</left>
+                    <right>0</right>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </spaipad>
-                <spaipad_override>true</spaipad_override>
-                <spatablet_android_override>true</spatablet_android_override>
+                <spaipad_override>false</spaipad_override>
+                <spatablet_android_override>false</spatablet_android_override>
                 <spatablet_windows_override>false</spatablet_windows_override>
                 <symbian>
                     <left>0</left>
@@ -960,9 +960,9 @@
                 </tabRCAndroid>
                 <tablet_rc_android_override>false</tablet_rc_android_override>
                 <tabspaAndroid>
-                    <left>1</left>
-                    <right>1</right>
-                    <top>2</top>
+                    <left>0</left>
+                    <right>0</right>
+                    <top>0</top>
                     <bottom>0</bottom>
                     <unit>%</unit>
                 </tabspaAndroid>
@@ -2156,7 +2156,7 @@
                         <bb_override>false</bb_override>
                         <default_override>true</default_override>
                         <defaults>
-                            <left>2</left>
+                            <left>1</left>
                             <right>3</right>
                             <top>2</top>
                             <bottom>2</bottom>
@@ -2219,14 +2219,14 @@
                         </spaWinphone8>
                         <spaWinphone8_override>false</spaWinphone8_override>
                         <spaipad>
-                            <left>1</left>
-                            <right>3</right>
-                            <top>2</top>
-                            <bottom>2</bottom>
+                            <left>0</left>
+                            <right>0</right>
+                            <top>0</top>
+                            <bottom>0</bottom>
                             <unit>%</unit>
                         </spaipad>
-                        <spaipad_override>true</spaipad_override>
-                        <spatablet_android_override>true</spatablet_android_override>
+                        <spaipad_override>false</spaipad_override>
+                        <spatablet_android_override>false</spatablet_android_override>
                         <spatablet_windows_override>false</spatablet_windows_override>
                         <symbian>
                             <left>1</left>
@@ -2245,10 +2245,10 @@
                         </tabRCAndroid>
                         <tablet_rc_android_override>false</tablet_rc_android_override>
                         <tabspaAndroid>
-                            <left>1</left>
-                            <right>3</right>
-                            <top>2</top>
-                            <bottom>2</bottom>
+                            <left>0</left>
+                            <right>0</right>
+                            <top>0</top>
+                            <bottom>0</bottom>
                             <unit>%</unit>
                         </tabspaAndroid>
                         <tabspaWindows>
@@ -7365,8 +7365,8 @@
                 <desktop_web>
                     <left>0</left>
                     <right>0</right>
-                    <top>8</top>
-                    <bottom>8</bottom>
+                    <top>2</top>
+                    <bottom>2</bottom>
                     <unit>%</unit>
                 </desktop_web>
                 <desktop_web_override>true</desktop_web_override>
